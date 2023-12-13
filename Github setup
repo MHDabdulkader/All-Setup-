@@ -1,0 +1,5 @@
+git init
+git add . or git add .fileName
+git commit -m "First commit"
+git remote add origin repository_URL
+git push origin main
